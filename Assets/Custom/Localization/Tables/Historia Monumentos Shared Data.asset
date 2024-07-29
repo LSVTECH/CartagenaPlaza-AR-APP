@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Historia Monumentos Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Historia Monumentos
+  m_TableCollectionNameGuidString: 2b5b1fe1e8e621449ae6b4ec1db0a6ed
+  m_Entries:
+  - m_Id: 93145006080
+    m_Key: Botas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161092730880
+    m_Key: Pegasos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197503483904
+    m_Key: Castillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225387216896
+    m_Key: Torre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245427601408
+    m_Key: India
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8687933248476282904
+  references:
+    version: 2
+    RefIds:
+    - rid: 8687933248476282904
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1718221617061
