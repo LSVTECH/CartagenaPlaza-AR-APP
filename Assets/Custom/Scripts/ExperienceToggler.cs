@@ -93,11 +93,11 @@ public class ExperienceToggler : MonoBehaviour
         menuInferior.SetActive(true);
 
         
-        fondosBotones[0].sprite = spriteBotones[0];
-        fondosBotones[1].sprite = spriteBotones[1];
+        //fondosBotones[0].sprite = spriteBotones[0];
+        //fondosBotones[1].sprite = spriteBotones[1];
 
-        textoBotones[0].color = selectedText;
-        textoBotones[1].color = idleText;
+        //textoBotones[0].color = selectedText;
+        //textoBotones[1].color = idleText;
 
         LimpiarEstatuas();
     }
@@ -111,11 +111,11 @@ public class ExperienceToggler : MonoBehaviour
         meshPlacer.enabled = false;
         menuInferior.SetActive(false);
 
-        fondosBotones[1].sprite = spriteBotones[0];
-        fondosBotones[0].sprite = spriteBotones[1];
+        //fondosBotones[1].sprite = spriteBotones[0];
+        //fondosBotones[0].sprite = spriteBotones[1];
 
-        textoBotones[1].color = selectedText;
-        textoBotones[0].color = idleText;
+        //textoBotones[1].color = selectedText;
+        //textoBotones[0].color = idleText;
 
         LimpiarEstatuas();
 
