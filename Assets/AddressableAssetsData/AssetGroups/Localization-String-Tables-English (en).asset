@@ -17,47 +17,19 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: d3ea6c6c6915fa5458bb516bb67c4ff4
   m_SerializeEntries:
-  - m_GUID: 0a9e5b22c1193894590974ca372dbdb4
-    m_Address: Botones menu lateral_en
+  - m_GUID: ea4aa00fb47d22f419204a3f7ea75ef6
+    m_Address: EscogeHotel_en
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
+    - Preload
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4a59db4c4222ccd4db669ab174d64807
-    m_Address: Main Menu_en
+  - m_GUID: a887e2f7df0b497418b0435e1cb68be1
+    m_Address: GameCTG_en
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e7ddbb51061232e469bf1395043c2ef0
-    m_Address: Tutorial_en
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-en
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b57fac97dfecbed49a7d13b5b4fd4cac
-    m_Address: Historia Monumentos_en
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-en
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8f45aef7556d7634d8141d634df2f880
-    m_Address: Panel Warning_en
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-en
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fa98fc28967c73243954f3fc569819fb
-    m_Address: Display Name_en
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-en
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4fc37839d5e591d4dacdac21807d848c
-    m_Address: Elige tu hotel_en
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-en
+    - Preload
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 8f63e4a36af79834a865b7c1b2b11e14, type: 2}

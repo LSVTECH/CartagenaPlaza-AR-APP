@@ -10,27 +10,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Localization-Assets-Shared
+  m_Name: Localization-String-Tables-Portuguese (Brazil) (pt-BR)
   m_EditorClassIdentifier: 
-  m_GroupName: Localization-Assets-Shared
+  m_GroupName: Localization-String-Tables-Portuguese (Brazil) (pt-BR)
   m_Data:
     m_SerializedData: []
-  m_GUID: 6e6b60cd69844034188d5a6a5c70f45f
+  m_GUID: af86167b56d8e43419c1475bffcc6939
   m_SerializeEntries:
-  - m_GUID: 99d53089e8af8b040bfe818a0d85fabf
-    m_Address: Assets/Custom/Localization/Tables/Escoger Hotel/EscogeHotel Shared
-      Data.asset
+  - m_GUID: f9c6954a5b7cd164d8ed53d8c0a5672f
+    m_Address: EscogeHotel_pt-BR
     m_ReadOnly: 1
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Locale-pt-BR
+    - Preload
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4e5612aa9b681144198a6c4e41fe8523
-    m_Address: Assets/Custom/Localization/Tables/Game CTG/GameCTG Shared Data.asset
+  - m_GUID: 1a16a626e7cfe3648ae0495c0fd60bf2
+    m_Address: GameCTG_pt-BR
     m_ReadOnly: 1
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Locale-pt-BR
+    - Preload
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 8f63e4a36af79834a865b7c1b2b11e14, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: faa2dd1bdc15ba2408475ac551d9a2d2, type: 2}
-    - {fileID: 11400000, guid: 13cd964969b5a09498f63752cf68b060, type: 2}
+    - {fileID: 11400000, guid: d7bbce16ca6a2e24289ae4a2776fa325, type: 2}
+    - {fileID: 11400000, guid: a2886fd7a53a01e48ae38153598b48cf, type: 2}
