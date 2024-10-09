@@ -7,11 +7,13 @@ using UnityEngine.Localization.Settings;
 public class LanguageManager : MonoBehaviour
 {
     private string playerPrefsKey = "locale";
-    private Locale activeLocale = LocalizationSettings.Instance.GetSelectedLocale();
+    private Locale activeLocale; 
 
     private int currentLocale = 0;
     void Start()
     {
+        activeLocale = LocalizationSettings.Instance.GetSelectedLocale();
+
         // Mostrar la localización activa al inicio
         Debug.Log("Localización activa al inicio: " + activeLocale.Identifier);
 
